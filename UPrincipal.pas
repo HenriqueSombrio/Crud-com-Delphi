@@ -30,7 +30,7 @@ uses UCadastroCliente;
 
 procedure TfrmPrincipal.mnu_CadastroClientesClick(Sender: TObject);
 begin
-  TFrmCadastroCliente.ShowModal;
+  FrmCadastroCliente.ShowModal;
 end;
 
 end.
